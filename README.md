@@ -95,6 +95,13 @@ Code.r                        — Main analysis: cleaning, Ripley's K, KDE, Mora
 Meteorite_landings_code.R     — Interactive Shiny dashboard
 Meteorite_Landings.csv        — Dataset (NASA Open Data)
 
+<img width="1113" height="945" alt="Screenshot 2026-09-12 210231" src="https://github.com/user-attachments/assets/d267d073-fb3f-4730-b88a-47421d3d3b88" />
+
+<img width="1117" height="946" alt="Screenshot 2026-09-12 210255" src="https://github.com/user-attachments/assets/bdd80645-c910-4497-b9b5-4599a4c73d09" />
+
+<img width="1110" height="943" alt="Screenshot 2026-09-12 210322" src="https://github.com/user-attachments/assets/c603ce37-3320-4a51-9c43-6056fb584313" />
+
+
 ## Author
 
 Logeshwari S
